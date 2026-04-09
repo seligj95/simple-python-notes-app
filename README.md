@@ -1,6 +1,6 @@
 # Smart Notes — AI-Powered Notes App
 
-A template app ready to deploy on [Embr](https://portal.embrdev.io). FastAPI backend serves a plain HTML/JS frontend on a single port — no frontend build step needed.
+A template app ready to deploy on [Embr](https://aka.ms/embr). FastAPI backend serves a plain HTML/JS frontend on a single port — no frontend build step needed.
 
 ## Deploy to Embr
 
@@ -14,7 +14,7 @@ run:
   port: 8080
 ```
 
-Connect this repo in the [Embr Portal](https://portal.embrdev.io), and Embr will install dependencies from `requirements.txt`, then start the server automatically.
+Connect this repo in the [Embr Portal](https://aka.ms/embr), and Embr will install dependencies from `requirements.txt`, then start the server automatically.
 
 ## Run Locally
 
